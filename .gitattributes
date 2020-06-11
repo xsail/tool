@@ -1,0 +1,2 @@
+*.bz2 filter=lfs diff=lfs merge=lfs -text
+mipsel-xsail-linux-gnu-gcc9.3.0-glibc2.30-20.x86_64.tar.bz2 filter=lfs diff=lfs merge=lfs -text
